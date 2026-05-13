@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+psycopg2-binary
+pymongo
+python-jose
+python-socketio
+pytest
+httpx
